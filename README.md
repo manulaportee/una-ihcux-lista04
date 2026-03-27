@@ -17,7 +17,7 @@ O uso do **try-catch** está diretamente relacionado ao princípio da **prevenç
 
 Dessa forma, esse recurso contribui para um sistema mais seguro, ágil e intuitivo, aumentando a satisfação do usuário graças à praticidade e confiabilidade da aplicação.
 
-[Exemplo de sucesso no programa com Try-Catch](Sucesso.png)
+![Exemplo de sucesso no programa com Try-Catch](Sucesso.png)
 
-[Exemplo de evidência de erro no programa com Try-Catch](EvidenciaErro.png)
+![Exemplo de evidência de erro no programa com Try-Catch](EvidenciaErro.png)
 
