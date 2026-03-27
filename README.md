@@ -16,3 +16,6 @@ O uso do **try-catch** está diretamente relacionado ao princípio da **prevenç
 - melhora a eficiência e a fluidez da interação.
 
 Dessa forma, esse recurso contribui para um sistema mais seguro, ágil e intuitivo, aumentando a satisfação do usuário graças à praticidade e confiabilidade da aplicação.
+[Exemplo de sucesso no programa com Try-Catch](https://github.com/manulaportee/una-ihcux-lista04/blob/main/Sucesso.png)
+[Exemplo de evidência de erro no programa com Try-Catch](https://github.com/manulaportee/una-ihcux-lista04/blob/main/EvidenciaErro.png)
+
